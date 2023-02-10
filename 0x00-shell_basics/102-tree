@@ -1,2 +1,3 @@
 #!/bin/bash
 rm * welcome/ welcome/to/ welcome/to/schoo 
+mkdir welcome/to/school
