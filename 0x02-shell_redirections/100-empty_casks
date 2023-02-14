@@ -1,2 +1,2 @@
 #!/bin/bash
-find .  -empty  -print | sed "s/.*\///" 
+find .  -empty | awk -F/ {print } 
