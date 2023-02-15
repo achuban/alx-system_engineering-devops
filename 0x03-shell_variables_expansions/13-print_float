@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo $num | bc -l | xargs printf "%.3f\n"
-=======
-printf '%s\n' "%.3f" $NUM
->>>>>>> 00119be70acc347b30dd8de2d59d040334bb44c6
