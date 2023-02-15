@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.3f\n" $(NUM)" | grep -v zx | sort 
+printf %sn "%.3f" $NUM
